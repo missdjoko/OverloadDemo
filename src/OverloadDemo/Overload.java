@@ -8,9 +8,9 @@ public class Overload {
         System.out.println("net parametrov");
     }
 
-    void test(int a){
-        System.out.println("a: " + a);
-    }
+ //   void test(int a){
+ //       System.out.println("a: " + a);
+ //   }
 
     void test(int a, int b){
         System.out.println("a: " + a + "  " + "b: " + b);
